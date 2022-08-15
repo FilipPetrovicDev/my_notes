@@ -5,5 +5,5 @@ My Notes app with simply and neat UI, adding notes, deleting notes and optional 
 - [Flutter]
 - [Firebase Firestore Database]
 
-![My Notes App Github image](https://user-images.githubusercontent.com/109347142/183844134-ed652425-edde-4cd4-987f-9cf052da2083.png)
+![My Notes App Github image](https://user-images.githubusercontent.com/109347142/184632429-ddf6b06c-a432-40b4-9000-9a2d676f1928.png)
 
